@@ -1,0 +1,10 @@
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\bin\Debug\Them_Sua.exe.config
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\bin\Debug\Them_Sua.exe
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\bin\Debug\Them_Sua.pdb
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\obj\Debug\Them_Sua.csproj.AssemblyReference.cache
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\obj\Debug\Them_Sua.Form1.resources
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\obj\Debug\Them_Sua.Properties.Resources.resources
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\obj\Debug\Them_Sua.csproj.GenerateResource.cache
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\obj\Debug\Them_Sua.csproj.CoreCompileInputs.cache
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\obj\Debug\Them_Sua.exe
+D:\A Github\App-Window\WindowsFormsApp1\Them_Sua\Them_Sua\obj\Debug\Them_Sua.pdb
